@@ -37,15 +37,28 @@ m. [](#)  <br>
 
 ## Assignment
 
+The Assignment can be found [here](https://docs.google.com/document/d/1xlo97NXJ9wKwhRgpOrgJSJmeelGFXFgbM-bxdMcmbWc/edit).
+
 #### Instructions
 
-<br>
+Divide into groups of three. Each person will lead a UX workshop for 40 minutes. 
 
-#### Stretch Goals
+Each workshop will consist of: 
+Brainstorm or mash-up for 20 minutes
+Affinity mapping for 20 minutes
+Dot voting for best ideas for 10 minutes
+
+One student will act as facilitator for the full 40 minute workshop. The group will take a ~10 minute break, then a new student will lead a workshop for 40 minutes.
+
+The workshops will cover your selected project.
+
+When you are finished with your workshop, connect with your PMs and show screenshots of the work that you completed.
 
 <br>
 
 #### Submission
+
+Student leads a 40 minute (for PT) or 60 minute (for FT) workshop that included brainstorming, affinity mapping, and dot voting exercises. Student submits documents showing evidence of his/her work.
 
 <br>
 <br>
