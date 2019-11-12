@@ -34,6 +34,29 @@ m. [](#)  <br>
 
 #### Pre-Class Links
 
+[Planning Effective UX Workshop Agendas](https://www.nngroup.com/articles/ux-workshop-agendas/), by the Norman Nielsen Group.
+
+[Model for UX Workshop Exercises](https://www.nngroup.com/articles/ux-workshop-exercises/)
+
+[Brainstorming with IDEO](https://youtu.be/VvdJzeO9yN8)
+
+[Affinity Diagramming for Collaboratively Sorting UX Findings](https://www.nngroup.com/articles/affinity-diagram/) by the Norman Nielsen Group.
+
+[Affinity Diagramming Process](http://asq.org/learn-about-quality/idea-creation-tools/overview/affinity.html)
+
+[Beyond Brainstorming: Mash Up Exercise](https://www.uxpin.com/studio/blog/beyond-brainstorming-ideo-ux-ideation-technique/)
+
+<br>
+
+
+#### Recordings
+
+[Group Creativity and Leading UX Workshops for UX9 - Alec Davis](https://youtu.be/bzAbOLsLMUE)
+
+[Group Creativity and Leading UX Workshops for UXPT3 - Corey Nelson]()
+
+<br>
+<br>
 
 ## Assignment
 
