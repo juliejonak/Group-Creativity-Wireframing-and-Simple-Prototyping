@@ -53,7 +53,7 @@ m. [](#)  <br>
 
 [Group Creativity and Leading UX Workshops for UX9 - Alec Davis](https://youtu.be/bzAbOLsLMUE)
 
-[Group Creativity and Leading UX Workshops for UXPT3 - Corey Nelson]()
+[Group Creativity and Leading UX Workshops for UXPT3 - Corey Nelson](https://youtu.be/Y1ikReMeaoc)
 
 <br>
 <br>
@@ -87,3 +87,4 @@ Student leads a 40 minute (for PT) or 60 minute (for FT) workshop that included 
 <br>
 
 ## 
+
