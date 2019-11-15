@@ -82,3 +82,16 @@ Ideation at any point in the product design process is beneficial. However, ther
 <br>
 <br>
 
+## Ideation Sketching
+
+Humans innately have a desire to create beautiful things. Ideating in UX, whichever form that takes, is not meant to be beautiful. We are using sketches to convey ideas. We want to provide people with a visual representation of an idea. Putting too much detail in sketches can be a detriment. We want to be sure that our audience is focusing on the themes being conveyed by the sketches, not on the details.
+
+We use sketching to help us generate ideas. Sketching can happen on paper, on a whiteboard, and of course, digitally. Each medium presents its strengths and weaknesses. Sketching also aids exploration. Unlike writing, sketching can happen at the speed of thought. Visual ideas can be portrayed quickly without much effort.
+
+One of the biggest blockers to ideating (and henceforth sketching) is self-censoring. Remember, self-censoring blocks innovation. All ideas inherently have value. Even if the idea does not immediately work, or make complete sense, it might spark other ideas. Avoid being ashamed of ideas and value will shine through.
+
+As we iterate on visual ideas and prepare to present them to potential stakeholders, lo-fidelity ideation using sketches or a similar medium will help stakeholders understand the vision of the product.
+
+<br>
+<br>
+
