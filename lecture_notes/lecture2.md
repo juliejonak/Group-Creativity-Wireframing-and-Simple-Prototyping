@@ -70,3 +70,15 @@ Ideation can happen both alone and in a group. However, ideating with another in
 
 <br>
 <br>
+
+## Ideation Challenges
+
+The most common complaint against conducting ideation sessions is a lack of time during an already constrained product design cycle (NNGroup). Although ideation does take time, it is important to remember that even a single session of 3 hours or less can uncover valuable information that can significantly impact the success of a product. Frequently, how participants spend their time during an ideation session is the most significant indicator of how successful the session will be. Remaining focused on the task at hand and properly documenting the ideation session helps to get the most value out of the session.
+
+A lack of upper managerial support can also have a significant impact on the ability to conduct ideation sessions. If upper management does not support taking time to conduct this type of work, it can be challenging to get others to participate. Showing value early in the process and explaining how group ideation could have solved issues in the past are a couples way of potentially dealing with a lack of managerial support.
+
+Ideation at any point in the product design process is beneficial. However, there are times when ideation is more beneficial than others. Ideation tends to be most effective directly after user research. Ideating after user research helps to keep the team focused on the outcomes of the research, and build toward a practical prototype.
+
+<br>
+<br>
+
