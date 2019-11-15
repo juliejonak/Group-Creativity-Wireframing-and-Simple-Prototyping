@@ -95,3 +95,16 @@ As we iterate on visual ideas and prepare to present them to potential stakehold
 <br>
 <br>
 
+## Crazy 8s Method
+
+The Crazy 8s exercise is meant to be conducted early on in the product design life cycle. The Crazy 8s exercise helps participants explore several conceptual designs rapidly. A typical Crazy 8s exercise session will go as follows:
+
+Choose a design medium (paper, digital, whiteboard), and a timer
+If using paper, fold the paper into eight distinct squares
+Set the timer for 5 minutes (40 seconds per square)
+Sketch a unique design idea in each square. Sketches are expected to be rough
+Once ideas are exposed, designers and participants will converge ideas and create a single prototype to test with users. At this stage, it is essential to ensure that creating the prototype takes minimal time and effort. The purpose of this prototype will be to test with users and immediately iterate. Designers should repeat this cycle until they feel confident in the direction of the design.
+
+<br>
+<br>
+
