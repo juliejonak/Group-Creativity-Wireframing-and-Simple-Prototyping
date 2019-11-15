@@ -37,13 +37,31 @@ m. [](#)  <br>
 
 #### Instructions
 
+1. Get a sheet of paper, a timer, and a sharpie.
+2. Fold the sheet of paper into eight sections.
+3. Set the timer for 8 minutes.
+4. Using the ‘Crazy 8’s’ method’, sketch eight unique home pages for Newsie in 8 minutes. You do not need to sketch the entire page, only whatever will be seen above the fold. 
+Remember, erasing is not allowed. Sketches should be rough!
+
+5. Review the sketches and choose the one that you believe best solves the challenge.
+
+6. Using the chosen sketch, create additional sketches (3-5) that demonstrate an action the user might take from that page. For example, if you chose the home page, you may choose to sketch out the remainder of a sign-in flow.
+
+7. When you are finished, write a 500-700 word reflection statement detailing your experience with the Crazy 8s method and UX sketching. Discuss how the method will aid in your design process going forward.
+
 <br>
 
 #### Stretch Goals
 
+Create a digital prototype of your sketches using InVision.
+
 <br>
 
 #### Submission
+
+ - [ ] Submit an image of your initial 8 sketches
+ - [ ] Submit an image of the additional (3-5) sketches that demonstrate an action the user might take from the homepage.
+ - [ ] Submit your blog post (live or doc) to your PM.
 
 <br>
 <br>
@@ -105,6 +123,22 @@ Set the timer for 5 minutes (40 seconds per square)
 Sketch a unique design idea in each square. Sketches are expected to be rough
 Once ideas are exposed, designers and participants will converge ideas and create a single prototype to test with users. At this stage, it is essential to ensure that creating the prototype takes minimal time and effort. The purpose of this prototype will be to test with users and immediately iterate. Designers should repeat this cycle until they feel confident in the direction of the design.
 
+![Crazy 8's Drawing](../images/Crazy8s.png "Crazy 8's Drawing")
+
 <br>
 <br>
 
+## Rapid Iteration
+
+After ideating, it is a good idea to validate the design ideas with users. Prototyping is one of the fastest and easiest ways to do this. With paper sketches, a prototype can be quickly created by snapping photos of the sketches and linking the sketches together in a prototyping tool, such as POP (Prototyping on Paper by Marvelapp). A simple prototype can be tested with users to understand the effectiveness of the design better. Once we evaluate the prototype, iteration can begin, and the cycle begins again.
+
+A conventional rapid iteration cycle is as follows:
+
+- Create an initial interface design. Sketching or lo-fi wireframes are preferable.  
+- Present the design to real or potential users of the final product.  
+- Note problems users encounter during the testing period.  
+- Refine the interface to account for the problems.  
+- Repeat this process and resolve all problems.  
+
+<br>
+<br>
