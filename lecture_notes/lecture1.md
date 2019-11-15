@@ -86,13 +86,17 @@ Student leads a 40 minute (for PT) or 60 minute (for FT) workshop that included 
 <br>
 <br>
 
-## 
+## Creativity
 
-Creativity is an open book. It is idea generation. Creating something from nothing or assembling new things from old things. Absurd ideas are put on the table—welcomed at the table. Creativity is often a solo act. You reach deep inside to crack open whatever is lurking in your subconscious and let it out. The research has shown that individuals can often generate more ideas and more creative ideas than a group can in the same time constraints.
+Creativity is an open book. It is idea generation. Creating something from nothing or assembling new things from old things. Absurd ideas are put on the table—welcomed at the table. 
+
+Creativity is often a solo act. You reach deep inside to crack open whatever is lurking in your subconscious and let it out. The research has shown that individuals can often generate more ideas and more creative ideas than a group can in the same time constraints.
 
 However, it is becoming increasingly difficult in the modern world to move from creative idea to product independently. You need a team.
 
 When you add human interaction, creativity suddenly has another dimension of complexity to deal with. Social cues and perceived social hierarchy can affect the flow of creativity.
+
+<br>
 
 One impact of this is that people can begin to bandwagon around a specific idea, fixating on the ideas from the loudest voice or the ideas of the highest authority figure.
 
@@ -100,9 +104,13 @@ Another impact is that, as ideas get floated, people can begin to defend their t
 
 Others in a group hold back their ideas because they’re not the fastest talker or the loudest. They’ll hold back their ideas because others are taking the stage more readily.
 
+<br>
+
 Digital design work is almost always done in collaboration with at least one other person and generally requires the ability to work closely and effectively with others to create a great product. Thus it can suffer from the complexities inherent in group creativity.
 
 Because of the complexity of software and business solutions, it’s not really possible for one person to be the source of creative vision. Sure, one person will need to act as the deciding power on what path to take, but collaborative creativity will be required along the way by all members of the team. The work of the group will be required to refine the creative ideas into workable business solutions. That is, the innovation that moves a business forward.
+
+<br>
 
 Most companies are beginning to recognize that innovation is a key to growth in the modern economy. “Win through innovation or lose the game.” Without innovation, products become commoditized. Businesses that don’t innovate tend to fizzle, because the only thing they can compete on is price. Eventually, someone else comes up with a novel way of doing things or adds some other level of quality. Innovation trumps the commodity.
 
