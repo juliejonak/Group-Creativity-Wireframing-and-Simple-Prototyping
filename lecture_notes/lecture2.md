@@ -32,6 +32,17 @@ m. [](#)  <br>
 
 #### Pre-Class Links
 
+[What is Ideation?](https://www.interaction-design.org/literature/topics/ideation) - by Interaction Design Foundation  
+
+[8 UX Ideation Techniques to Try Out](https://www.justinmind.com/blog/8-ux-ideation-techniques-to-try-out/)  
+
+[Crazy 8's Exercise](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights) by Design Sprints.  
+
+<br>
+
+[Ideation for UX9 with Alec Davis](https://youtu.be/BdvFkhMWCOs)  
+
+[Ideation for UXPT3 with Corey Nelson]()  
 
 ## Assignment
 
