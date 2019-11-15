@@ -153,3 +153,30 @@ A conventional rapid iteration cycle is as follows:
 
 <br>
 <br>
+
+## Practice
+
+Given a prompt, sit down with someone and an answer some surface level questions about the topic for 3-5 minutes per person.
+
+Next, dig a little deeper. Ask _why_ each person answered that way. Develop empathy for the other person.
+
+Afterwards, take 5 minutes alone to talk about the goals and wishes of your partner with this prompt. What is your partner trying to achieve through _____? What insights did you learn about your partner's motivations? Summarize what you've learned and how it lends itself towards the prompt.
+
+![Ideation Discussion](../images/IdeationDiscussion.png "Ideation Discussion")]
+
+Now, take 5 minutes to identify your partner's needs, by writing sentences with this format:
+
+[My partner] needs a way to [user's need] because/but/surprisingly [insight].
+
+![Identify Needs](../images/IdentifyNeeds.png "Identify Needs")
+
+Then, use the Crazy 8's method to draw out ideas on a piece of paper. One that 8 minute session is up, regroup and share your ideas without justification or judgement.
+
+![Share Solutions](../images/ShareSolutions.png "Share Solutions")
+
+Finally, come up with a new idea that builds off of your ideation and feedback received.
+
+![New Solution](../images/NewSolution.png "New Solution")
+
+<br>
+<br>
