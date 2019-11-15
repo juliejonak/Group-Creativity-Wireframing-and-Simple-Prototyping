@@ -48,4 +48,25 @@ m. [](#)  <br>
 <br>
 <br>
 
-## 
+## Ideation Sessions
+
+All ideation sessions have three main characteristics.
+
+### Ideas are not evaluated. 
+
+We want to make sure that ideation sessions are void of critiques. It is essential that everyone feels comfortable ideating without being evaluated. Fostering the proper environment is of the utmost importance when conducting ideation sessions. Even potentially bad options can lay the groundwork for fantastic solutions.
+
+<br>
+
+### Ideas are recorded, and the session is documented. 
+
+We can record ideas in many ways. Paper, pencil, voice recorder, video recorder, camera, and markers are just a few of the many ways that we can document ideas. It is essential that ideas are documented to ensure the participants/stakeholders can evaluate the ideas at a later date. It is essential to avoid deleting artifacts, as they all hold valuable information that can be used and built upon later.
+
+<br>
+
+### Collaboration spurs diverse ideas. 
+
+Ideation can happen both alone and in a group. However, ideating with another individual, or a group can help spur creativity. Ideating with a group of diverse individuals helps to bring a diverse set of backgrounds, and therefore viewpoints, to the table. Ideating in this manner will likely save time and frustration in the long-run.
+
+<br>
+<br>
